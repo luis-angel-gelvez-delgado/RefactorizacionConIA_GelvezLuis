@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "usuario": {
+            "id": 1,
+            "nombre": "david",
+            "apellido": "dm",
+            "telefono": 12121,
+            "direccion": "2222"
+        },
+        "herramienta": {
+            "id": 1,
+            "nombre": "martillo",
+            "categoria": "Manual",
+            "estado": "Activo",
+            "precio": 2222,
+            "cantidad": 21
+        },
+        "cantidad": 1,
+        "fecha_inicio": "2026-02-12",
+        "fecha_final": "2026-03-05",
+        "estado": "En proceso",
+        "observaciones": "Pendiente"
+    }
+]

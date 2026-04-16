@@ -1,0 +1,4 @@
+Se ha creado un nuevo usuario  en la fecha de 2026-04-15 08:37:30.491470
+Se intento realizar una solicitud de prestamo pero no se pudo porque no hay registros en usuarios y herramientas en la fecha de 2026-04-16 06:57:23.395095
+Se ha creado una nueva categoria  en la fecha de 2026-04-16 06:58:29.571074
+Se ha registrado una herramienta nueva  en la fecha de 2026-04-16 06:59:14.232862

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "nombre": "martillo",
+        "categoria": {
+            "id": 1,
+            "categoria": "Manual"
+        },
+        "cantidad": 21,
+        "estado": "Activo",
+        "precio": 2222
+    }
+]
